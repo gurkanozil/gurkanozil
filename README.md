@@ -1,16 +1,15 @@
-## Hi there 👋
+# Gürkan Mahmut Özil
 
-<!--
-**gurkanozil/gurkanozil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Software Developer | Lifelong Learner**
 
-Here are some ideas to get you started:
+With over 5 years of experience, I specialize in building scalable web applications using React, TypeScript, and other modern technologies. My passion for programming has been with me since I was 10 years old, and I am driven to continuously learn and create impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is always on delivering efficient and user-friendly solutions that are both technically robust and client-focused.
+
+## Connect with me:
+- [Twitter](https://twitter.com/gurkanozil)
+- [LinkedIn](https://www.linkedin.com/in/gurkanozil)
+- [GitHub](https://github.com/gurkanozil)
+- [Personal Portfolio](https://gurkanozil.github.io)
+
+Feel free to reach out or explore my repositories!
