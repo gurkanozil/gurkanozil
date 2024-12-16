@@ -12,3 +12,5 @@ My passion for programming has been with me since I was 10 years old, and I am d
 - [Personal Portfolio](https://gurkanozil.github.io)
 
 Feel free to reach out or explore my repositories!
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkanozil&hide_border=true&layout=compact&theme=dark)
